@@ -13,7 +13,7 @@ const ArtGallery = () => {
 
   return (
     <div style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
-      <img src="/images/ai-art.png" style={{ width: "200px" }} />
+      <img src="/images/ai-art.png" alt="" style={{ width: "200px" }} />
       <input
         type="text"
         placeholder="Søk etter kunst..."
@@ -53,7 +53,9 @@ const ArtGallery = () => {
             <h4 style={{ fontWeight: 400 }}>{art.title}</h4>
           </div>
         ))}
-        {filteredArt.length === 0 && <p>1 art found matching your search.</p>}
+        {filteredArt.length === 0 && (
+          <p>Fant ingen bilder som passet til søk</p>
+        )}
       </div>
     </div>
   );
