@@ -1,9 +1,8 @@
-import "./App.css";
 import ArtGallery from "./components/ArtGallery";
 
 function App() {
   return (
-    <div className="App">
+    <div style={{ textAlign: "center" }}>
       <ArtGallery />
     </div>
   );
