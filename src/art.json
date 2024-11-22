@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "title": "Tid",
+    "description": "Rosen fra skjønnheten og udyret",
+    "image": "/images/beauty.png"
+  },
+  {
+    "id": 3,
+    "title": "Noe glemt",
+    "description": "Glasskoen til askepott",
+    "image": "/images/cinderella.png"
+  },
+  {
+    "id": 4,
+    "title": "Et forsøk",
+    "description": "Kaken fra Tornerose",
+    "image": "/images/sleeping.png"
+  },
+  {
+    "id": 5,
+    "title": "Uheldig",
+    "description": "Eplet dra Snøhvit",
+    "image": "/images/snow-white.png"
+  },
+  {
+    "id": 6,
+    "title": "Fri",
+    "description": "Fletten til Rapuntzel",
+    "image": "/images/tangled.png"
+  },
+  {
+    "id": 7,
+    "title": "Nytt liv",
+    "description": "Kjolen til Ariel",
+    "image": "/images/ariel.png"
+  },
+  {
+    "id": 8,
+    "title": "Evner",
+    "description": "Elsa fra Frost",
+    "image": "/images/frost.png"
+  },
+  {
+    "id": 9,
+    "title": "Fly",
+    "description": "Fra drakten til Jasmin i Aladdin",
+    "image": "/images/jasmine.png"
+  },
+  {
+    "id": 1,
+    "title": "Det første som faller",
+    "description": "Tre nøtter til askepott",
+    "image": "/images/askepott.png"
+  }
+]
